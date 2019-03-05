@@ -1,5 +1,5 @@
-
-
+#include<iostream>
+using namespace std;
 
 void printPattern(int n){
 
@@ -66,5 +66,11 @@ void printPattern(int n){
     cout<<endl;
   }
 
+}
+
+int main(){
+  int n;
+  cin >> n;
+  printPattern(n);
 
 }
