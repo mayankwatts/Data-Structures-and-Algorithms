@@ -28,7 +28,7 @@ int main() {
      if(count>i)
       { l--;
        cout<<l;}
-       
+      
     }
     cout<<endl;
   }
